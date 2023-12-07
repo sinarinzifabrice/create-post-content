@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m+K3SLpcYDP7hWaD3c8H3NU2GXW45xK8aKx2RKGv5z0=",
+  "Source": "aspectnetserver",
+  "BasePath": "_content/aspectnetserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
